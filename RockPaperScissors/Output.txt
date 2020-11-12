@@ -1,0 +1,45 @@
+Rock, Paper, or Scissors?(Exit to quit)
+
+
+your choice: paper
+Opponent chooses paper
+ITS A TIE
+
+Rock, Paper, or Scissors?(Exit to quit)
+
+
+your choice: rock
+Opponent chooses paper
+YOU LOOSE!
+
+Rock, Paper, or Scissors?(Exit to quit)
+
+
+your choice: scissors
+Opponent chooses rock
+YOU LOOSE!
+
+Rock, Paper, or Scissors?(Exit to quit)
+
+
+your choice: ROCK
+Opponent chooses paper
+YOU LOOSE!
+
+Rock, Paper, or Scissors?(Exit to quit)
+
+
+your choice: PAPER
+Opponent chooses rock
+YOU WIN!
+
+Rock, Paper, or Scissors?(Exit to quit)
+
+
+your choice: icecream
+incorrect input
+
+Rock, Paper, or Scissors?(Exit to quit)
+
+
+your choice: exit
